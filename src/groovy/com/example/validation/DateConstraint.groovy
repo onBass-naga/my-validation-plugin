@@ -19,9 +19,9 @@ import java.util.regex.Pattern
  */
 public class DateConstraint extends AbstractConstraint {
 
-    static final String DATE_CONSTRAINT = "date";
-    static final String DEFAULT_INVALID_DATE_MESSAGE_CODE = "default.invalid.date.message";
-    static final String DEFAULT_INVALID_DATE_FORMAT_MESSAGE_CODE = "default.invalid.date.format.message";
+    static final String DATE_CONSTRAINT = "date"
+    static final String DEFAULT_INVALID_DATE_MESSAGE_CODE = "default.invalid.date.message"
+    static final String DEFAULT_INVALID_DATE_FORMAT_MESSAGE_CODE = "default.invalid.date.format.message"
     private static final String INVALID_SUFFIX = ".invalid"
 
     static enum AllowedDateFormat {
