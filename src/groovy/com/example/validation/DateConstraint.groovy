@@ -1,7 +1,6 @@
 package com.example.validation
 
 import org.codehaus.groovy.grails.validation.AbstractConstraint
-import org.codehaus.groovy.grails.validation.ConstrainedProperty
 import org.springframework.validation.Errors
 
 import java.util.regex.Pattern

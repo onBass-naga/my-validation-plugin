@@ -1,7 +1,5 @@
 package com.example.validation
 
-import org.junit.Test
-
 /**
  * Created by naga on 2014/02/23.
  */
